@@ -22,9 +22,9 @@
   ##
 
 <div>
+      <a href="https://www.youtube.com/channel/UCBrXU9XW8YQA5K-HDGIpKAA" target="_blank"> <img src="http://img.shields.io/badge/YouTube-FF0000?style=for-thebadge&logo=YouTube&logoColor=white" target="_blank"> </a>  
+      <a href="https://www.youtube.com/channel/UCBrXU9XW8YQA5K-HDGIpKAA" target="_blank"> <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank" /> </a>  
       <a href="https://www.youtube.com/channel/UCBrXU9XW8YQA5K-HDGIpKAA" target="_blank"> <img src="http://img.shields.io/badge/YouTube-FF0000?style=for-thebadge&logo=YouTube&logoColor=white" target="_blank"> </a>
-      
-      
   <div>
         
       
@@ -33,6 +33,8 @@
               
 
             
+            
+          
       
         
             
