@@ -3,7 +3,7 @@
 <div>
       <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=lbseven7&show_icons=true&theme=tokyonight&includes_all_commits=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbseven7&layout=compact&langs_count=16" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbseven7&layout=compact&langs_count=16&theme=tokyonight" >
             
 </div>
 
