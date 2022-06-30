@@ -22,6 +22,11 @@
   ##
 
 <div>
+      <a href="https://www.youtube.com/channel/UCBrXU9XW8YQA5K-HDGIpKAA" target="_blank"> <img src="http://img.shields.io/badge/YouTube-FF0000?style=for-thebadge&logo=YouTube&logoColor=white" target="_blank"> </a>
+      <a href="" target="_blank"> <img src="" target="_blank"> </a>
+      <a href="" target="_blank"> <img src="" target="_blank"> </a>
+      <a href="" target="_blank"> <img src="" target="_blank"> </a>
       <a href="" target="_blank"> <img src="" target="_blank"> </a>
 </div>            
                      
+https://img.shields.io/badge/
