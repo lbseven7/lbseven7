@@ -23,7 +23,20 @@
 
 <div>
       <a href="https://www.youtube.com/channel/UCBrXU9XW8YQA5K-HDGIpKAA" target="_blank"> <img src="http://img.shields.io/badge/YouTube-FF0000?style=for-thebadge&logo=YouTube&logoColor=white" target="_blank"> </a>
-      <a href="https://www.instagram.com/leobarbosapinturas/" target="_blank"> <img src="http://img.shields.io/badge/-instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"> </a>
+      
+      
+  <div>
+        
+      
+</div>
+            
+              
+
+            
+      
+        
+            
+      
       
 </div>            
 
