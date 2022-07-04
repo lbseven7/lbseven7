@@ -26,8 +26,10 @@
       <a height="180em" href="https://www.youtube.com/channel/UCBrXU9XW8YQA5K-HDGIpKAA" target="_blank"> <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" target="_blank" /> </a>  
       
   <div>
-  
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexsandrobarbosasantos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexsandrobarbosasantos?trk=profile-badge">Alexsandro Barbosa</a></div>
+   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alexsandrobarbosasantos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexsandrobarbosasantos?trk=profile-badge">Alexsandro Barbosa</a></div>
+              
+</div>
+ 
               
         
             
