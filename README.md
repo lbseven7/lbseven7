@@ -18,6 +18,9 @@
     <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" >
     <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" >
 </div>
+            <div>
+            <img align="center" width="40" height="30" src="https://www.canva.com/design/DAFFe3WuBkI/2ydH-wMahVlh8mr52-UA_A/view?utm_content=DAFFe3WuBkI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" >
+            </div>
 </body>
  
               
