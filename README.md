@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alexsandro Barbosa 👋
 
 
-      <div>
+<div>
       <a href="https://github.com/lbseven7"><a>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbseven7&show_icons=true&theme=tokyonight&includes_all_commits=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbseven7&layout=compact&langs_count=16&theme=tokyonight" >  
