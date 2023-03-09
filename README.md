@@ -8,7 +8,7 @@
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lbseven7&theme=andromeda&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> -->
-
+### Contact me:
 <div align="center">
 <a href="https://www.linkedin.com/in/alexsandrobarbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=#0557ff"</a>
 <a href = "https://mail.google.com/mail/u/0/#inbox"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
