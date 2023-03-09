@@ -35,5 +35,5 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lbseven7}/count.svg" /></p>
+<p align="center"><img align="left" src="https://profile-counter.glitch.me/{lbseven7}/count.svg" /></p>
 <br></div>
