@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github!+:%29)](https://git.io/typing-svg)
-
+# Aqui você terá acesso aos projetos dos quais participei de forma individual ou em grupo durante o perído de formação na trybe, além de projetos pessoais!
 ### Contact me:
 <div align="left">
 <a href="https://www.linkedin.com/in/alexsandrobarbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=#0557ff"</a>
