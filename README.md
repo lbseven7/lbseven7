@@ -2,7 +2,7 @@
 # Olá! Fique à vontade!
 
 ## Aqui você terá acesso aos projetos dos quais participei de forma individual ou em grupo durante o perído de formação na trybe, além de projetos pessoais!
-### Vamos bater um papo?:
+### Vamos bater um papo?: leodevcode@gmail.com
 <div align="left">
 <a href="https://www.linkedin.com/in/alexsandrobarbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=#0557ff"</a>
 <a href = "https://mail.google.com/mail/u/0/#inbox"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
