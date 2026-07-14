@@ -90,18 +90,6 @@ Além do código, sou **artista pintor hiper-realista** com mais de 20 anos de e
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](assets/github-stats.svg)
-
-![Top Languages](assets/top-langs.svg)
-
-</div>
-
----
-
 ## Conecte-se comigo
 
 <div align="center">
