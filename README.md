@@ -94,9 +94,9 @@ Além do código, sou **artista pintor hiper-realista** com mais de 20 anos de e
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lbseven7&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=d88800&icon_color=d88800&text_color=c9d1d9&include_all_commits=true&count_private=true)
+![GitHub Stats](assets/github-stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lbseven7&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=d88800&text_color=c9d1d9&langs_count=8)
+![Top Languages](assets/top-langs.svg)
 
 </div>
 
@@ -118,6 +118,6 @@ Além do código, sou **artista pintor hiper-realista** com mais de 20 anos de e
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{lbseven7}/count.svg)
+Feito com dedicação por **Alexsandro Barbosa** 🚀
 
 </div>
